@@ -1,0 +1,23 @@
+{
+    "name": "devtransition/yii2-rabbitmq",
+    "description": "Yii 2 extension wrapper for the awesome RabbitMQ server via AMQP. Based on videlalvaro/php-amqplib.",
+    "keywords": ["yii", "yii2","extension", "amqp", "RabbitMQ"],
+    "homepage": "https://github.com/devtransition/yii2-rabbitmq",
+    "type": "yii-extension",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Nicolas Wild",
+            "email": "nwild79@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "videlalvaro/php-amqplib": "2.6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "devtransition\\yii2-rabbitmq\\": "lib/"
+        }
+    }
+}
