@@ -2,6 +2,8 @@
 
 This module provides the [videlalvaro/php-amqplib](https://github.com/videlalvaro/php-amqplib) messaging integration for the [Yii framework 2.0](http://www.yiiframework.com).
 
+# !!!!!!!!!!!! NOT YET WORKING !!!!!!!!!!!!
+
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
 [![Build Status][ico-travis]][link-travis]
