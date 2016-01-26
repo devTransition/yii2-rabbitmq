@@ -63,15 +63,15 @@ limitations under the License.
 
 [ico-version]: https://img.shields.io/packagist/v/devtransition/yii2-rabbitmq.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-Apache-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/devtransition/yii2-rabbitmq/master.svg?style=flat-square
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/devtransition/yii2-rabbitmq.svg?style=flat-square
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/devtransition/yii2-rabbitmq.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/devTransition/yii2-rabbitmq/master.svg?style=flat-square
+[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/devTransition/yii2-rabbitmq.svg?style=flat-square
+[ico-code-quality]: https://img.shields.io/scrutinizer/g/devTransition/yii2-rabbitmq.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/devtransition/yii2-rabbitmq.svg?style=flat-square
 
 [link-packagist]: https://packagist.org/packages/devtransition/yii2-rabbitmq
-[link-travis]: https://travis-ci.org/devtransition/yii2-rabbitmq
-[link-scrutinizer]: https://scrutinizer-ci.com/g/devtransition/yii2-rabbitmq/code-structure
-[link-code-quality]: https://scrutinizer-ci.com/g/devtransition/yii2-rabbitmq
+[link-travis]: https://travis-ci.org/devTransition/yii2-rabbitmq
+[link-scrutinizer]: https://scrutinizer-ci.com/g/devTransition/yii2-rabbitmq/code-structure
+[link-code-quality]: https://scrutinizer-ci.com/g/devTransition/yii2-rabbitmq
 [link-downloads]: https://packagist.org/packages/devtransition/yii2-rabbitmq
-[link-author]: https://github.com/devtransition
+[link-author]: https://github.com/devTransition
 [link-contributors]: ../../contributors

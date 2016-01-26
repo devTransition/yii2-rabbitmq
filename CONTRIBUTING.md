@@ -2,12 +2,12 @@
 
 Contributions are **welcome** and will be fully **credited**.
 
-We accept contributions via Pull Requests on [Github](https://github.com/devtransition/yii2-rabbitmq).
+We accept contributions via Pull Requests on [Github](https://github.com/devTransition/yii2-rabbitmq).
 
 
 ## Pull Requests
 
-- **[PSR-2 Coding Standard with some compliant adoptions](https://github.com/devtransition/php-coding-standards)**
+- **[PSR-2 Coding Standard with some compliant adoptions](https://github.com/devTransition/php-coding-standards)**
 
 - **Add tests!** - Your patch won't be accepted if it doesn't have tests.
 
