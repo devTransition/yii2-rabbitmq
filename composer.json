@@ -8,9 +8,11 @@
         "amqp",
         "RabbitMQ"
     ],
-    "homepage": "https://github.com/devtransition/yii2-rabbitmq",
-    "type": "yii2-extension",
+    "homepage": "https://github.com/devTransition/yii2-rabbitmq",
     "license": "Apache-2.0",
+    "support": {
+        "issues": "https://github.com/devTransition/yii2-rabbitmq/issues"
+    },
     "authors": [
         {
             "name": "Nicolas Wild",
