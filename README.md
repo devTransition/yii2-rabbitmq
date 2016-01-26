@@ -62,7 +62,7 @@ limitations under the License.
 
 
 [ico-version]: https://img.shields.io/packagist/v/devtransition/yii2-rabbitmq.svg?style=flat-square
-[ico-license]: https://img.shields.io/badge/license-Apache-2.0-brightgreen.svg?style=flat-square
+[ico-license]: https://img.shields.io/badge/license-Apache-brightgreen.svg?style=flat-square
 [ico-travis]: https://img.shields.io/travis/devtransition/yii2-rabbitmq/master.svg?style=flat-square
 [ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/devtransition/yii2-rabbitmq.svg?style=flat-square
 [ico-code-quality]: https://img.shields.io/scrutinizer/g/devtransition/yii2-rabbitmq.svg?style=flat-square
