@@ -30,7 +30,7 @@
     },
     "autoload": {
         "psr-4": {
-            "devtransition\\rabbitmq\\": "lib/"
+            "devtransition\\rabbitmq\\": "src/"
         }
     },
     "autoload-dev": {
